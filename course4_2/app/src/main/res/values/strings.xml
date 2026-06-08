@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">course4_2</string>
+    <string name="message_str">跑男还去了欢乐谷</string>
+    <string name="first_short">first</string>
+    <string name="first_long">启停活动</string>
+    <string name="second_short">second</string>
+    <string name="second_long">来回跳转</string>
+    <string name="third_short">third</string>
+    <string name="third_long">登陆返回</string>
+</resources>
